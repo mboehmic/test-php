@@ -3,4 +3,6 @@
 $var = value;
 $anothervar = value;
 
+
+// comment
 ?>
