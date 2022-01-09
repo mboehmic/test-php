@@ -2,4 +2,5 @@
 
 $var = value;
 $anothervar = value;
+
 ?>
