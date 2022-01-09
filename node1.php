@@ -1,7 +1,7 @@
 <?php php
 
-$var = value;
-$anothervar = value;
+$var = 1;
+$anothervar = 2;
 
 
 // comment
